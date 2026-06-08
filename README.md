@@ -1,2 +1,20 @@
-# Salifort-Motors-Employee-Turnover-Analysis
-Analyzed employee turnover data using Python and built a Random Forest model with 98% accuracy to predict employee turnover at Salifort Motors.
+# Salifort Motors Employee Turnover Analysis
+
+## Project Overview
+Analyzed employee survey data from Salifort Motors to identify 
+key factors causing high employee turnover and built a predictive 
+machine learning model.
+
+## Tools Used
+- Python, Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn (Logistic Regression, Random Forest)
+
+## Results
+- Random Forest: 98% accuracy, 89% recall
+- Top factors: Satisfaction level, tenure, monthly hours
+
+## Files
+- PACE Strategy Document
+- Jupyter Notebook
+- Executive Summary
